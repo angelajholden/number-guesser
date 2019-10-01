@@ -20,3 +20,7 @@ const compareGuesses = (user, computer, target) => {
 	}
 }
 
+const updateScore = (winner) => {
+	humanScore = 
+}
+
